@@ -1,6 +1,6 @@
 # vue2.x-SPA-webapp
 
-> 这是通过对自己的[gulp-multipage]{https://github.com/li2568261/gulp-multipage}项目进行的SPA重构，对vue2.x进一步的熟悉过程。
+> 这是通过对自己的[gulp-multipage](https://github.com/li2568261/gulp-multipage)项目进行的SPA重构，对vue2.x进一步的熟悉过程。
 
 做到了：
 
