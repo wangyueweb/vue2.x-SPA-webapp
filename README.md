@@ -1,21 +1,27 @@
-# test
+# vue2.x-SPA-webapp
 
-> A Vue.js project
+> 这是通过对自己的[gulp-multipage]{https://github.com/li2568261/gulp-multipage}项目进行的SPA重构，对vue2.x进一步的熟悉过程。
+
+做到了：
+
+1.通过vue对页面的渲染
+2.页面切换滑动效果
+3.axios数据请求
+4.单个会话下本地数据存储
+5.async/await处理异步函数
+6.promise构造异步函数
 
 ## Build Setup
 
 ``` bash
-# install dependencies
+# 依赖安装
 npm install
 
-# serve with hot reload at localhost:8080
+# 进入开发模式
 npm run dev
 
-# build for production with minification
+# 静态页面构建
 npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
