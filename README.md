@@ -10,6 +10,7 @@
 4. 单个会话下本地数据存储
 5. async/await处理异步函数
 6. promise构造异步函数
+7. 组件模块的异步加载
 
 ## Build Setup
 
