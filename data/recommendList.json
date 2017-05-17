@@ -1,0 +1,156 @@
+{
+	"errorcode":0,
+	"data":[
+		{
+	        "id": 0,
+	        "item_img": "/static/images/course_list-1.jpg",
+	        "title": "EXCEL高级函数班",
+	        "exclusive":true,
+	        "count": "67",
+	        "level":"recommend",
+	        "courseInfo": {
+	            "video_base": "/videos/yyy_video",
+	            "title": "如何克服拖延症！",
+	            "score": 4.5,
+	            "has_play": 2300,
+	            "drop_title": "拖延症",
+	            "drop_list": [{
+	                "name": "拖延症的类型",
+	                "src": "/static/videos/yyy_video1-1.mp4",
+	                "poster": "/static/images/yyy_video1-1.jpg"
+	            }, {
+	                "name": "拖延症的类型",
+	                "src": "/static/videos/yyy_video1-2.mp4",
+	                "poster": "/static/images/yyy_video1-2.jpg"
+	            }],
+	            "course_detail": "如果你的情况符合以下任何一种：下定决心想干某件事，然后，然后就没有然后了......早上7点睡醒，准备起床，两个小时过去了，你还在思考要不要起床...... 不见棺材不掉泪，经常把所谓的工作和事都留到最后一刻才来通宵熬夜加班干掉......经常会有人问你“那件事怎么着了”，你总是十年如一日的回答：“在等等两天我就搞定了！” ......如果你真心觉得，自己有明确具体的拖延问题需要解决，而你的单打独斗已经难以奏效，那你需要的就是这堂课。",
+	            "apply": "白领 职场小白"
+	        }
+	    },
+	    {
+	        "id": 1,
+	        "item_img": "/static/images/course_list-1.jpg",
+	        "title": "EXCEL高级函数班",
+	        "exclusive":true,
+	        "count": "67",
+	        "courseInfo": {
+	            "video_base": "/videos/yyy_video",
+	            "title": "如何克服拖延症！",
+	            "score": 4.5,
+	            "has_play": 2300,
+	            "drop_title": "拖延症",
+	            "drop_list": [{
+	                "name": "拖延症的类型",
+	                "src": "/static/videos/yyy_video1-1.mp4",
+	                "poster": "/static/images/yyy_video1-1.jpg"
+	            }, {
+	                "name": "拖延症的类型",
+	                "src": "/static/videos/yyy_video1-2.mp4",
+	                "poster": "/static/images/yyy_video1-2.jpg"
+	            }],
+	            "course_detail": "如果你的情况符合以下任何一种：下定决心想干某件事，然后，然后就没有然后了......早上7点睡醒，准备起床，两个小时过去了，你还在思考要不要起床...... 不见棺材不掉泪，经常把所谓的工作和事都留到最后一刻才来通宵熬夜加班干掉......经常会有人问你“那件事怎么着了”，你总是十年如一日的回答：“在等等两天我就搞定了！” ......如果你真心觉得，自己有明确具体的拖延问题需要解决，而你的单打独斗已经难以奏效，那你需要的就是这堂课。",
+	            "apply": "白领 职场小白"
+	        }
+	    },
+	    {
+	        "id": 1,
+	        "item_img": "/static/images/course_list-1.jpg",
+	        "title": "EXCEL高级函数班",
+	        "exclusive":true,
+	        "count": "67",
+	        "courseInfo": {
+	            "video_base": "/videos/yyy_video",
+	            "title": "如何克服拖延症！",
+	            "score": 4.5,
+	            "has_play": 2300,
+	            "drop_title": "拖延症",
+	            "drop_list": [{
+	                "name": "拖延症的类型",
+	                "src": "/static/videos/yyy_video1-1.mp4",
+	                "poster": "/static/images/yyy_video1-1.jpg"
+	            }, {
+	                "name": "拖延症的类型",
+	                "src": "/static/videos/yyy_video1-2.mp4",
+	                "poster": "/static/images/yyy_video1-2.jpg"
+	            }],
+	            "course_detail": "如果你的情况符合以下任何一种：下定决心想干某件事，然后，然后就没有然后了......早上7点睡醒，准备起床，两个小时过去了，你还在思考要不要起床...... 不见棺材不掉泪，经常把所谓的工作和事都留到最后一刻才来通宵熬夜加班干掉......经常会有人问你“那件事怎么着了”，你总是十年如一日的回答：“在等等两天我就搞定了！” ......如果你真心觉得，自己有明确具体的拖延问题需要解决，而你的单打独斗已经难以奏效，那你需要的就是这堂课。",
+	            "apply": "白领 职场小白"
+	        }
+	    },
+	    {
+	        "id": 1,
+	        "item_img": "/static/images/course_list-1.jpg",
+	        "title": "EXCEL高级函数班",
+	        "exclusive":true,
+	        "count": "67",
+	        "courseInfo": {
+	            "video_base": "/videos/yyy_video",
+	            "title": "如何克服拖延症！",
+	            "score": 4.5,
+	            "has_play": 2300,
+	            "drop_title": "拖延症",
+	            "drop_list": [{
+	                "name": "拖延症的类型",
+	                "src": "/static/videos/yyy_video1-1.mp4",
+	                "poster": "/static/images/yyy_video1-1.jpg"
+	            }, {
+	                "name": "拖延症的类型",
+	                "src": "/static/videos/yyy_video1-2.mp4",
+	                "poster": "/static/images/yyy_video1-2.jpg"
+	            }],
+	            "course_detail": "如果你的情况符合以下任何一种：下定决心想干某件事，然后，然后就没有然后了......早上7点睡醒，准备起床，两个小时过去了，你还在思考要不要起床...... 不见棺材不掉泪，经常把所谓的工作和事都留到最后一刻才来通宵熬夜加班干掉......经常会有人问你“那件事怎么着了”，你总是十年如一日的回答：“在等等两天我就搞定了！” ......如果你真心觉得，自己有明确具体的拖延问题需要解决，而你的单打独斗已经难以奏效，那你需要的就是这堂课。",
+	            "apply": "白领 职场小白"
+	        }
+	    },
+	    {
+	        "id": 1,
+	        "item_img": "/static/images/course_list-1.jpg",
+	        "title": "EXCEL高级函数班",
+	        "exclusive":true,
+	        "count": "67",
+	        "courseInfo": {
+	            "video_base": "/videos/yyy_video",
+	            "title": "如何克服拖延症！",
+	            "score": 4.5,
+	            "has_play": 2300,
+	            "drop_title": "拖延症",
+	            "drop_list": [{
+	                "name": "拖延症的类型",
+	                "src": "/static/videos/yyy_video1-1.mp4",
+	                "poster": "/static/images/yyy_video1-1.jpg"
+	            }, {
+	                "name": "拖延症的类型",
+	                "src": "/static/videos/yyy_video1-2.mp4",
+	                "poster": "/static/images/yyy_video1-2.jpg"
+	            }],
+	            "course_detail": "如果你的情况符合以下任何一种：下定决心想干某件事，然后，然后就没有然后了......早上7点睡醒，准备起床，两个小时过去了，你还在思考要不要起床...... 不见棺材不掉泪，经常把所谓的工作和事都留到最后一刻才来通宵熬夜加班干掉......经常会有人问你“那件事怎么着了”，你总是十年如一日的回答：“在等等两天我就搞定了！” ......如果你真心觉得，自己有明确具体的拖延问题需要解决，而你的单打独斗已经难以奏效，那你需要的就是这堂课。",
+	            "apply": "白领 职场小白"
+	        }
+	    },
+	    {
+	        "id": 1,
+	        "item_img": "/static/images/course_list-1.jpg",
+	        "title": "EXCEL高级函数班",
+	        "exclusive":true,
+	        "count": "67",
+	        "courseInfo": {
+	            "video_base": "/videos/yyy_video",
+	            "title": "如何克服拖延症！",
+	            "score": 4.5,
+	            "has_play": 2300,
+	            "drop_title": "拖延症",
+	            "drop_list": [{
+	                "name": "拖延症的类型",
+	                "src": "/static/videos/yyy_video1-1.mp4",
+	                "poster": "/static/images/yyy_video1-1.jpg"
+	            }, {
+	                "name": "拖延症的类型",
+	                "src": "/static/videos/yyy_video1-2.mp4",
+	                "poster": "/static/images/yyy_video1-2.jpg"
+	            }],
+	            "course_detail": "如果你的情况符合以下任何一种：下定决心想干某件事，然后，然后就没有然后了......早上7点睡醒，准备起床，两个小时过去了，你还在思考要不要起床...... 不见棺材不掉泪，经常把所谓的工作和事都留到最后一刻才来通宵熬夜加班干掉......经常会有人问你“那件事怎么着了”，你总是十年如一日的回答：“在等等两天我就搞定了！” ......如果你真心觉得，自己有明确具体的拖延问题需要解决，而你的单打独斗已经难以奏效，那你需要的就是这堂课。",
+	            "apply": "白领 职场小白"
+	        }
+	    }
+	]
+}
